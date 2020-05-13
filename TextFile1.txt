@@ -1,0 +1,4 @@
+person
+techer
+employ
+unemploy
